@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o João Paulo Carvalho
-
 🎯 Desenvolvedor Full Stack | React | TypeScript | Mobile & Web 
 📍 Alfenas, MG, Brasil  
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jpccarvalho) | [E-mail](mailto:jpauloc97@gmail.com)
