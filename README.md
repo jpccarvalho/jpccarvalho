@@ -19,11 +19,3 @@ Sou um entusiasta da tecnologia com paixão por desenvolver interfaces intuitiva
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub de João](https://github-readme-stats.vercel.app/api?username=jpccarvalho&show_icons=true&theme=tokyonight)
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpccarvalho&layout=compact&theme=tokyonight)
-
