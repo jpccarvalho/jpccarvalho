@@ -1,12 +1,6 @@
-🎯 Desenvolvedor Full Stack | React | TypeScript | Mobile & Web 
+🎯 Desenvolvedor Front End | React | TypeScript | Mobile & Web 
 📍 Alfenas, MG, Brasil  
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jpccarvalho) | [E-mail](mailto:jpauloc97@gmail.com)
-
----
-
-## 🚀 Sobre Mim
-
-Sou um entusiasta da tecnologia com paixão por desenvolver interfaces intuitivas e responsivas. Com experiência em projetos web e mobile, busco constantemente aprimorar minhas habilidades e contribuir para soluções inovadoras.
 
 ---
 
